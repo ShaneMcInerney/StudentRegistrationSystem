@@ -1,3 +1,6 @@
+/**
+ * Shane McInerney 2016
+ */
 package shanemcinerney.StudentRegistrationSystem;
 
 import java.util.List;
